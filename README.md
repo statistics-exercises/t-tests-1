@@ -2,7 +2,7 @@
 
 In last weeks exercises we introduced the following new flowchart to describe how we perform these hypothesis tests:
 
-![](hypo-tests.003.jpeg)
+![](hypo-testing.003.jpeg)
 
 We discussed how by reporting the p-value rather than simply stating whether there was sufficient evidence to reject the null hypothesis or not we are giving stakeholders a better sense of our result.  We can of course still write that, "_the null hypothesis is rejected in favour of the alternative_" if we see that the p-value is less than 5% or "_there is insufficient evidence to reject the null hypothesis_," if the p-value is greater than this threshold.  By also reporting the p-value, however, we are giving stakeholders a better sense of the reason for our decision on what to write.  They can thus way up the evidence themselves and choose whether to reject the null hypothesis or not.
 
